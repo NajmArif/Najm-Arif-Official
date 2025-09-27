@@ -1,0 +1,4 @@
+shop-backend/
+ ├─ server.js
+ ├─ package.json
+ └─ .env.example
